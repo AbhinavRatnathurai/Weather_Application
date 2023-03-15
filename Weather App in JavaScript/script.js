@@ -7,7 +7,7 @@ weatherPart = wrapper.querySelector(".weather-part"),
 wIcon = weatherPart.querySelector("img"),
 arrowBack = wrapper.querySelector("header i");
 
-const API_KEY = "58878bd13fb788b0cf84879c97c222f0";
+const API_KEY = "YOUR_API_KEY";
 
 let api;
 
